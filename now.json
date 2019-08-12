@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "name": "svg-to-image-proxy",
+  "name": "svg-to-image",
   "build": {
     "env": {
       "PUPPETEER_SKIP_CHROMIUM_DOWNLOAD": "true"
