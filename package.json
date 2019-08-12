@@ -1,5 +1,5 @@
 {
-  "name": "svg-to-image-proxy",
+  "name": "svg-to-image",
   "version": "0.2.0",
   "description": "A web function to create PNGs from SVGs",
   "keywords": [
